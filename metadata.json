@@ -1,0 +1,6 @@
+{
+  "name": "Sunflower Serenade - Happy Birthday Auntie",
+  "description": "A radiant, aesthetic sunflower-themed birthday celebration website crafted with love, heartfelt poetry, interactive petal effects, and golden wishes for a beloved Aunt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
